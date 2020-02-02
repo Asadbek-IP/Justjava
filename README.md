@@ -1,2 +1,3 @@
 # Justjava
- Udacity saytida ishlagan ishim
+ Udacity da qilgan 2-ishim
+ Qahva narxini hisoblash uchun dastur
