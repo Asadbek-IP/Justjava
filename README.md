@@ -1,3 +1,4 @@
 # Justjava
- Udacity da qilgan 2-ishim
+ Udacity da qilgan 2-android dasturim
+ 
  Qahva narxini hisoblash uchun dastur
